@@ -24,5 +24,5 @@ Content-Type: application/x-www-form-urlencoded
 
 grant_type=authorization_code
 &client_id=fullcycle-client
-&code=d803812a-1cce-4d38-9d12-a33f143f5ee0.48ce3bf7-ef07-4aab-bf41-5b7726c97e56.34b28fed-8773-41a4-bfde-bf98c8950b26
+&code=0bdf618a-4591-4c5b-87dd-1aa44f037a1f.c8129f0e-eaaf-45c0-b37f-d1985799b0a0.b10f908f-5d45-408f-8b64-40fea4bd0b13
 &redirect_uri=http://localhost:3000/callback
