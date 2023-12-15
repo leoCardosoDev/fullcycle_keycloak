@@ -1,2 +1,2 @@
-.docker
-authentication-flow/node_modules
+**/.docker
+**/node_modules
