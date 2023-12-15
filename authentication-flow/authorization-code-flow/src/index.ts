@@ -70,7 +70,7 @@ app.get("/logout", (req, res) => {
   res.redirect(url);
 });
 // /login ----> keycloak (formulario de auth) ----> /callback?code=123 ---> keycloak (devolve o token)
-//
+
 app.get("/callback", async (req, res) => {
   //@ts-expect-error - type mismatch
   if (req.session.user) {
