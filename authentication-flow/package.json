@@ -6,6 +6,10 @@
   "scripts": {
     "authorization-code": "nodemon --exec ts-node ./authorization-code-flow/src/index.ts"
   },
+  "workspaces": [
+    "hybrid-flow",
+    "implicit-flow"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
